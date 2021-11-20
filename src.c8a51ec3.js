@@ -11,4 +11,4 @@ const e="0556b87ba267edab76fd3e7e8d7e5097",n="https://api.themoviedb.org/3",t=`$
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./templates/filmCard.hbs"),require("./js/fetchMoviesAPI");
 },{"./sass/main.scss":"clu1","./templates/filmCard.hbs":"rrA0","./js/fetchMoviesAPI":"lyak"}]},{},["Focm"], null)
-//# sourceMappingURL=/sasha87972/src.3a6f469e.js.map
+//# sourceMappingURL=/sasha87972/src.c8a51ec3.js.map
